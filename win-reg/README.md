@@ -1,0 +1,3 @@
+Here are some .reg files for remapping keys on Windows.
+They should work for all those popular versions of Windows: Windows XP, 7, 8, 8.1, 10, ...
+
