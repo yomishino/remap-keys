@@ -6,7 +6,7 @@ The mapping is done by adding a value (`"Scancode Map"` under `[HKEY_LOCAL_MACHI
 
 # How to use
 
-Download the file you want and then run it by double clicking on it. You will probably be prompted for confirmation. Press yes.
+Clone the repo, choose one you want from the files, and then run it by double clicking on it. You will probably be prompted for confirmation. Press yes.
 
 Alternatively, if you are comfortable with directly editing the Regsitry, check the corresponding key and value in the file and mannually edit your Registry. (Not recommended unless you are confident with it.)
 
