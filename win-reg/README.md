@@ -1,6 +1,6 @@
 # A brief description of the .reg files
 
-Here are some .reg files for remapping keys on Windows. They should work for all those popular versions of Windows: Windows XP, 7, 8, 8.1, 10, ...
+Here are some .reg files for remapping keys on Windows. They should work for all those popular versions of Windows: Windows XP, 7, 8, 8.1, 10, 11, ...
 
 The mapping is done by adding a value (`"Scancode Map"` under `[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]`) in the Windows Registry, which Windows uses to handle the remapping of keys.
 
